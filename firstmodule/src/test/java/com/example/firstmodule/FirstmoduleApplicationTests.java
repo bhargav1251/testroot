@@ -14,6 +14,7 @@ public class FirstmoduleApplicationTests {
 	public void contextLoads() {
 	  String str = "Bhargav";
     Assert.assertTrue(str.length()>0);
+    System.out.println(" this is printed");
 	}
 
 }
