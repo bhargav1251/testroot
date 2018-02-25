@@ -16,5 +16,4 @@ public class FirstmoduleApplicationTests {
     Assert.assertTrue(str.length()>0);
     System.out.println(" this is printed");
 	}
-
 }
