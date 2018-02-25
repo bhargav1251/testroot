@@ -15,5 +15,10 @@ public class FirstmoduleApplicationTests {
 	  String str = "Bhargav";
     Assert.assertTrue(str.length()>0);
 	}
+	@Test
+  public void newTest(){
+    String str = "Bhargav";
+    Assert.assertTrue(str.length()>0);
+  }
 
 }
